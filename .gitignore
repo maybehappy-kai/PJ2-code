@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.venv/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
